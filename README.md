@@ -4,6 +4,8 @@
 
 Bu proje, kullanıcı tarafından girilen sayıyı işaret yönünden analiz eder ve analiz sonucunu ekrana yazdırır.
 
+Yeni sürümle birlikte, birden fazla sayı analiz etme özelliği eklenmiştir.
+
 ---
 
 ## 📂 Proje Yapısı
@@ -30,6 +32,10 @@ Bu proje, kullanıcı tarafından girilen sayıyı işaret yönünden analiz ede
 - **Git & GitHub:** Versiyon kontrolü ve iş birliği için.
 
 ---
+
+## 🆕 Değişiklik Geçmişi
+- **v1.1.0** Döngü desteği eklendi, kullanıcı birden fazla sayı analiz edebilir.
+- **v1.0.0** Tek sayı analizi yapılabilen ilk sürüm yayınlandı.
 
 ## 👨‍💻 Katkı Sağlayanlar
 - **Burhan Arıkan** Öğrenme Yolcusu
